@@ -1,0 +1,13 @@
+.container {
+	position: absolute;
+	background: red;
+}
+#playingField {
+	width: 100%;
+}
+.ball {
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
